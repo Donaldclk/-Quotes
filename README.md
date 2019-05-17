@@ -13,7 +13,7 @@ This is a collection of quotes that can be used for different purposes.
 ```
 
 
-## Usage
+## Usage:large_blue_circle:
 ```
 - Feel free to copy and paste anything that is useful to you, 
   but only for lawful and respectful uses.
