@@ -30,5 +30,4 @@ This is a collection of quotes that can be used for different purposes.
 
 
 ## 🎫License
-The entire repository is licensed with MIT.
-[MIT](https://choosealicense.com/licenses/mit/)
+The entire repository is licensed with [MIT](https://choosealicense.com/licenses/mit/).
