@@ -1,8 +1,8 @@
-# 📜🖋Quotes
+# :scroll:🖋Quotes
 This is a collection of quotes that can be used for different purposes.
 
 
-## 🧾Declaration
+## :bookmark_tabs:Declaration
 ```
 1. All materials here that are sourced from the Internet will be stated and credited clearly if possible.
 
@@ -13,7 +13,7 @@ This is a collection of quotes that can be used for different purposes.
 ```
 
 
-## 😊Usage
+## :blush:Usage
 ```
 🔎 Feel free to copy and paste anything that is useful to you, 
     but only for lawful and respectful uses.
@@ -23,11 +23,11 @@ This is a collection of quotes that can be used for different purposes.
 ```
 
 
-## 📚Intellectual property
+## :books:Intellectual property
 ```
-❗️Please be aware of the copyright and plagiarism activity that might cause issues.
+:exclamation:Please be aware of the copyright and plagiarism activity that might cause issues.
 ```
 
 
-## :books:License
+## :ticket:License
 The entire repository is licensed with [MIT](https://choosealicense.com/licenses/mit/).
