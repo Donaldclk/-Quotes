@@ -29,5 +29,5 @@ This is a collection of quotes that can be used for different purposes.
 ```
 
 
-## 🎫License
+## :books:License
 The entire repository is licensed with [MIT](https://choosealicense.com/licenses/mit/).
