@@ -2,7 +2,7 @@
 This is a collection of quotes that can be used for different purposes.
 
 
-## Declaration
+## 🧾Declaration
 ```
 1. All materials here that are sourced from the Internet will be stated and credited clearly if possible.
 
@@ -13,21 +13,22 @@ This is a collection of quotes that can be used for different purposes.
 ```
 
 
-## Usage:large_blue_circle:
+## 😊Usage
 ```
-- Feel free to copy and paste anything that is useful to you, 
+🔎 Feel free to copy and paste anything that is useful to you, 
   but only for lawful and respectful uses.
 
-- If it has been emphasized that I am the owner/creator of the source, 
+🔎 If it has been emphasized that I am the owner/creator of the source, 
   then please obtain my permission before using it.
 ```
 
 
-## Intellectual property
+## 📚Intellectual property
 ```
-:bangbang: Please be aware of the copyright and plagiarism activity that might cause issues.⚠️
+❗️Please be aware of the copyright and plagiarism activity that might cause issues.
 ```
 
 
-## License
+## 🎫License
+The entire repository is licensed with MIT.
 [MIT](https://choosealicense.com/licenses/mit/)
