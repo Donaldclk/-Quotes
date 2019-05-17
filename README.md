@@ -16,10 +16,10 @@ This is a collection of quotes that can be used for different purposes.
 ## 😊Usage
 ```
 🔎 Feel free to copy and paste anything that is useful to you, 
-  but only for lawful and respectful uses.
+    but only for lawful and respectful uses.
 
 🔎 If it has been emphasized that I am the owner/creator of the source, 
-  then please obtain my permission before using it.
+    then please obtain my permission before using it.
 ```
 
 
