@@ -6,7 +6,7 @@ This is a collection of quotes that can be used for different purposes.
 ```
 1. All materials here that are sourced from the Internet will be stated and credited clearly if possible.
 2. This repository may also contain some of my original creations, designs, literature, and art.
-3. The formations of quotes are not limited or restricted to any particular type of documentation like texts. 
+3. The formations of quotes are not limited or restricted to any particular type of documentation.
    (For example, it could be a screenshot of a meaningful quote with a remarkable graphic design.)
 ```
 
