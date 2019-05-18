@@ -25,7 +25,7 @@ This is a collection of quotes that can be used for different purposes.
 
 ## :books:Intellectual property
 ```
-:pushpin:Please be aware of the copyright and plagiarism activity that might cause issues.
+❗️Please be aware of the copyright and plagiarism activity that might cause issues.
 ```
 
 
